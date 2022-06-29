@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">TheFarm</string>
+
+
+    <string name="ehealth">Egwar\'s Farm Manager</string>
+    <string name="egwar">Egwar logs in using credential "Admin".</string>
+
+    <string name="studentNo">Staff ID.</string>
+    <string name="empID">Staff ID.</string>
+    <string name="stock">Available stock</string>
+    <string name="c_reserve">Add Stock</string>
+    <string name="stock_ID">Calf ID</string>
+    <string name="stock_age">Calf\'s Age</string>
+    <string name="stock_detail">Calf Details</string>
+    <string name="stock_weight">Calf\'s Weight</string>
+    <string name="stock_details">Calf\'s type, brand and other conditions</string>
+    <string name="owner">Brought By</string>
+    <string name="uploaded">Uploaded By:</string>
+    <string name="delete">Delete</string>
+
+    <string name="employee">Employees</string>
+    <string name="select_employee">Select Employee</string>
+    <string name="type">Contract type</string>
+    <string name="add_emp">Add Employee</string>
+    <string name="select_calf">Select Calf</string>
+
+    <string name="manage">Management Activity</string>
+    <string name="activity">Activity Type</string>
+    <string name="detail">Activity Details</string>
+    <string name="result">Activity Results</string>
+    <string name="by">Report by</string>
+    <string name="approve">Save Report</string>
+    <string name="update">Update</string>
+    <string name="active">Activity</string>
+    <string name="updateR">Update Records</string>
+
+    <string name="del">Delete all Records</string>
+    <string name="send">Send Records to mail</string>
+
+    <string name="approved">Approved Reports</string>
+
+    <string name="progress">Calf\'s Progress</string>
+
+
+    <string name="password">Password</string>
+
+    <string name="new_password">New Password</string>
+
+    <string name="confirm">Confirm Password</string>
+
+    <string name="login">Login</string>
+
+    <string name="account">Have no Account? Create One </string>
+
+    <string name="create">Create Account</string>
+
+    <string name="forgot">Forgot Password</string>
+
+    <string name="reset">Reset Password</string>
+
+    <string name="my_account">My Account</string>
+
+    <string name="no">12345.</string>
+
+    <string name="first">First name</string>
+
+    <string name="last">Last Name</string>
+
+    <string name="phone">Phone Number</string>
+
+    <string name="mobile_money">Mobile Money Number</string>
+
+    <string name="email">Email</string>
+
+    <string name="gender">Gender</string>
+
+    <string name="course">Course</string>
+
+    <string name="service">Services</string>
+
+    <string name="select">Select Doctor</string>
+
+    <string name="reserve">Reservations</string>
+
+    <string name="reservation">Reservation</string>
+
+    <string name="consult">Consultations</string>
+
+    <string name="doctors">Doctors</string>
+
+    <string name="student">Students</string>
+
+    <string name="dNo">Doctor/Nurse No.</string>
+
+    <string name="prof">Profession</string>
+
+    <string name="next">NEXT</string>
+
+    <string name="add">A</string>
+
+    <string name="addD">Add Doctor</string>
+
+
+    <string name="purpose">Purpose</string>
+
+    <string name="date">Select Date</string>
+
+    <string name="time">Select time</string>
+
+    <string name="recent">Recent Diagnosis</string>
+
+    <string name="logout">Log Out</string>
+
+    <string name="diagnosis">Diagnosis</string>
+
+    <!--    <string name="result">Results</string>-->
+
+    <string name="recommendation">Recommendation</string>
+
+    <string name="prescription">Prescription</string>
+
+
+    <string name="report">Diagnosis Report</string>
+
+    <string name="edit">Edit Profile</string>
+
+</resources>
